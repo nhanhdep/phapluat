@@ -1,0 +1,27 @@
+.mm-logo{
+	height: 2.5em;
+	display: block;
+	margin: auto;
+}
+.mm-header{
+	border-bottom: solid 1px #176382;
+	background: #fcfcfc;
+}
+.mm-listview .mm-col{
+	width: 50%;
+	float: left;
+	display: block;
+	color: #3b5556;
+}
+.mm-listview .mm-col a{
+	display: block;
+	color: #1c7ba5;
+	font-weight: bold;
+	font-size: 17px;
+}
+.mm-listview form{
+	padding:10px;
+}
+.mm-listview .stylish-input-group{
+	border: solid 1px #e1e1e1;
+}
